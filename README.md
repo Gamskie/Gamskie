@@ -1,36 +1,31 @@
-## 👋 Hi, I'm Gamma — AI Automation Engineer
+## Halo, I'm Gamma 👋
 
-> Building production AI agents that automate the work humans hate.
+Marketing & export ops at an Indonesian commodity briquette exporter. Most of my Python lives in nights and weekends.
 
-🇮🇩 Based in **Bandung, Indonesia** — available globally for remote contracts.
+📍 Bandung, Indonesia — remote everywhere.
 
 ---
 
-### 🛠️ What I'm building
+### What I'm working on
 
-- 🚢 **Shipment booking automation** for an Indonesian commodity exporter — reducing 4 hours of manual work to 10 minutes per container
-- 📨 **AI sales outreach agents** — lead research, hyper-personalized email, reply handling
-- ⚙️ **Custom n8n & Mastra workflows** for end-to-end ops automation
-- 🧠 **LLM integrations** via Claude API and OpenRouter (multi-model routing)
+- 🚢 **Shipment doc & booking pipeline** — a Telegram-triggered Python pipeline I built for my own export work. Parses the IPL Excel, computes Indonesian-holiday-aware shipment dates, fills five Word templates and converts them to PDF, drafts the booking email per region. Tested on real MSC bookings; portal submit is still manual.
+- 🛠 **[ai-automation-toolkit](https://github.com/Gamskie/ai-automation-toolkit)** — small open-source starters as I learn LLM workflows. Outreach agent, reply classifier, holiday-aware date engine, n8n templates. Not yet running in any client's production.
+- 💻 **My own AI workspace** — OpenClaw + claude-mem on my Windows machine, multi-model routing via OpenRouter. The shipment pipeline runs through it.
 
-### 🔧 Tech I work with
+### Tech I touch most
 
-`Python` `TypeScript` `Claude API` `OpenAI` `OpenRouter` `LangGraph` `Mastra` `n8n`
-`Supabase` `PostgreSQL` `Cloudflare Workers` `Vercel`
-`Firecrawl` `Apify` `Playwright + Stagehand` `Qdrant` `pgvector`
+`Python` `PowerShell` `openpyxl` `python-docx` `Word/Excel COM` `Claude API` `OpenRouter` `n8n` `SQLite` `PostgreSQL` `Cloudflare` `Vercel`
 
-### 🎯 Who I help
+### Who I'd like to help
 
-- SMBs drowning in manual ops (forms, data entry, customer outreach)
-- Exporters / importers automating quote-to-booking workflows
-- Sales teams stuck copy-pasting between LinkedIn, Apollo, and HubSpot
-- Founders who want their first AI integration without hiring a full team
+- SMBs and exporters with a workflow that lives in Excel + email + a vendor portal
+- Ops teams quietly burning hours on copy-paste between systems
+- Founders who want a partial pilot before committing to a full automation project
 
-### 📫 Connect
+### Connect
 
+- 🌐 Portfolio: [gamskie.github.io/gammawira-portfolio](https://gamskie.github.io/gammawira-portfolio/)
 - 💼 LinkedIn: [linkedin.com/in/gammawira](https://linkedin.com/in/gammawira)
-- 📧 Email: gammawirawibowo@gmail.com
+- 📧 Email: [gammawirawibowo@gmail.com](mailto:gammawirawibowo@gmail.com)
 
----
-
-*Building in public — every win, every fail, every line of code.*
+> Building in public — the rough drafts, the things that work, and the things I'm still figuring out.
