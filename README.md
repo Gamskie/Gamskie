@@ -1,31 +1,22 @@
-## Halo, I'm Gamma 👋
+## Halo, I'm Gamma
 
-Marketing & export ops at an Indonesian commodity briquette exporter. Most of my Python lives in nights and weekends.
+Marketing & export operations at an Indonesian commodity exporter — and I build small web and automation tools on the side. Informatics graduate, cum laude. Based in Bandung, Indonesia, open to remote.
 
-📍 Bandung, Indonesia — remote everywhere.
+### What I actually work on
 
----
+Export documentation and MSC carrier-portal operations by day. A live website I built and maintain for our family business at pet-acc.com. My employer's company site at psn-charcoal.com, live and being refined. Small Python scripts for my own document prep, still early work in progress. I'm currently learning the Claude API and LLM workflows, with a first real artifact on the way.
 
-### What I'm working on
+### Tech I actually use
 
-- 🚢 **Shipment doc & booking pipeline** — a Telegram-triggered Python pipeline I built for my own export work. Parses the IPL Excel, computes Indonesian-holiday-aware shipment dates, fills five Word templates and converts them to PDF, drafts the booking email per region. Tested on real MSC bookings; portal submit is still manual.
-- 🛠 **[ai-automation-toolkit](https://github.com/Gamskie/ai-automation-toolkit)** — small open-source starters as I learn LLM workflows. Outreach agent, reply classifier, holiday-aware date engine, n8n templates. Not yet running in any client's production.
-- 💻 **My own AI workspace** — OpenClaw + claude-mem on my Windows machine, multi-model routing via OpenRouter. The shipment pipeline runs through it.
-
-### Tech I touch most
-
-`Python` `PowerShell` `openpyxl` `python-docx` `Word/Excel COM` `Claude API` `OpenRouter` `n8n` `SQLite` `PostgreSQL` `Cloudflare` `Vercel`
+Python, openpyxl, python-docx, PHP, MySQL, SQL, HTML, CSS, JavaScript. Basics of Git and TypeScript. Learning the Claude API.
 
 ### Who I'd like to help
 
-- SMBs and exporters with a workflow that lives in Excel + email + a vendor portal
-- Ops teams quietly burning hours on copy-paste between systems
-- Founders who want a partial pilot before committing to a full automation project
+Small businesses and exporters with workflows that live in Excel, email, and a vendor portal.
 
 ### Connect
 
-- 🌐 Portfolio: [gamskie.github.io/gammawira-portfolio](https://gamskie.github.io/gammawira-portfolio/)
-- 💼 LinkedIn: [linkedin.com/in/gammawira](https://linkedin.com/in/gammawira)
-- 📧 Email: [gammawirawibowo@gmail.com](mailto:gammawirawibowo@gmail.com)
+LinkedIn: linkedin.com/in/gammawira
+Email: gammawirawibowo@gmail.com
 
-> Building in public — the rough drafts, the things that work, and the things I'm still figuring out.
+Building in public — the rough drafts, the things that work, and the things I'm still figuring out.
